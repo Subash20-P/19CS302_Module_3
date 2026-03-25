@@ -17,8 +17,8 @@ To write a C Program to convert a given decimal value to binary using function w
 ## Program:
 ```
 /*
-# Developed by: SUBASH P
-# Register Number:  212222060255
+ Developed by: SUBASH P
+ Register Number:  212222060255
 */
 #include <stdio.h>
 
