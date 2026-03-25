@@ -14,7 +14,7 @@ To write a C program to read the elements and print only the odd elements in the
 
 ## Program:
 ```
-Developed by: SUBASH P
+ Developed by: SUBASH P
  Register Number:  212222060255
 #include <stdio.h>
 
