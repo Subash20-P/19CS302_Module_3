@@ -15,8 +15,8 @@ To write a C program to check whether the given number is prime or not using fun
 ## Program:
 ```
 /*
-Developed by: Kaviyarasan S
-RegisterNumber:  212222060117
+Developed by: SUBASH P
+Register Number:  212222060255
 */
 
 #include <stdio.h>
